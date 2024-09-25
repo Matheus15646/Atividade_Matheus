@@ -1,1 +1,1 @@
-# Atividade_Matheus
+Este código HTML cria uma calculadora simples que soma dois números. Ele inclui campos de entrada para os números, um botão para calcular e uma área para exibir o resultado. O JavaScript valida as entradas e atualiza o resultado na página. O estilo é simples, centrando o conteúdo na tela.
